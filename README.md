@@ -7,6 +7,8 @@ Data is loaded into a DuckDB database, and then queryied for patterns using a si
 ## Features and Benefits
 
 * Load data from CSV files
+* Explore data using a simple table interface
+* Search for values in the data
 
 
 ## Installation
