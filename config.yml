@@ -66,8 +66,8 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
+      - name: Artists
+        url: artists
       - name: Stations
         url: stations
       - name: Tags
