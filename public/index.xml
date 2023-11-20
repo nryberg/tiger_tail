@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ho! Ho! Ho!</title>
+    <link>/</link>
+    <description>Recent content on Ho! Ho! Ho!</description>
+    <image>
+      <title>Ho! Ho! Ho!</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Nov 2023 06:08:43 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sun, 19 Nov 2023 06:08:43 -0600</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Tiger Tail - the simple tool that converts your data into a static website through the magic of Hugo, Netlify, and GitHub.</description>
+    </item>
+    
+    <item>
+      <title>About Ho Ho Ho!</title>
+      <link>/about/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Why this site exists</description>
+    </item>
+    
+    <item>
+      <title>KOOL 108 - Minneapolis/St. Paul, MN</title>
+      <link>/stations/kool108/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/stations/kool108/</guid>
+      <description>About KOOL 108 is Minnesota&amp;rsquo;s Christmas Station. KOOL 108 plays Minnesota&amp;rsquo;s favorite Christmas songs all year long. KOOL 108 is also the home of Minnesota&amp;rsquo;s largest Christmas party, the KOOL 108 Jingle Ball.</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>

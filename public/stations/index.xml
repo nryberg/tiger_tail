@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Radio Stations on Ho! Ho! Ho!</title>
+    <link>/stations/</link>
+    <description>Recent content in Radio Stations on Ho! Ho! Ho!</description>
+    <image>
+      <title>Ho! Ho! Ho!</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/stations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KOOL 108 - Minneapolis/St. Paul, MN</title>
+      <link>/stations/kool108/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/stations/kool108/</guid>
+      <description>About KOOL 108 is Minnesota&amp;rsquo;s Christmas Station. KOOL 108 plays Minnesota&amp;rsquo;s favorite Christmas songs all year long. KOOL 108 is also the home of Minnesota&amp;rsquo;s largest Christmas party, the KOOL 108 Jingle Ball.</description>
+    </item>
+    
+  </channel>
+</rss>
