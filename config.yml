@@ -68,6 +68,8 @@ params:
     buttons:
       - name: Posts
         url: posts
+      - name: Stations
+        url: stations
       - name: Tags
         url: tags
 
@@ -111,6 +113,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 5
     - identifier: categories
       name: categories
       url: /categories/
