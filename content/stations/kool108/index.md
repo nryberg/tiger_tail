@@ -14,10 +14,6 @@ resources:
   src: tracks.md
 ---
 
-## About
-
-KOOL 108 is Minnesota's Christmas Station.  KOOL 108 plays Minnesota's favorite Christmas songs all year long.  KOOL 108 is also the home of Minnesota's largest Christmas party, the KOOL 108 Jingle Ball.
-
-## Tracks
+> KOOL 108 is Minnesota's Christmas Station.  KOOL 108 plays Minnesota's favorite Christmas songs all year long.  KOOL 108 is also the home of Minnesota's largest Christmas party, the KOOL 108 Jingle Ball.
 
 {{< tracks >}}
