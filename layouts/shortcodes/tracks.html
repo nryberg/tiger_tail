@@ -1,0 +1,2 @@
+{{ $tracks := $.Page.Resources.GetMatch "tracks.md" }} {{if $tracks }}
+{{$tracks.Content}} {{ else }} BROKEN IMAGE LINK {{ end }}

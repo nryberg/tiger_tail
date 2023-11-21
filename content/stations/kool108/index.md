@@ -9,8 +9,15 @@ date: "2019-03-11"
 #aliases: ["migrate-from-jekyl"]
 ShowToc: false
 TocOpen: false
+resources:
+- name: tracks
+  src: tracks.md
 ---
 
 ## About
 
 KOOL 108 is Minnesota's Christmas Station.  KOOL 108 plays Minnesota's favorite Christmas songs all year long.  KOOL 108 is also the home of Minnesota's largest Christmas party, the KOOL 108 Jingle Ball.
+
+## Tracks
+
+{{< tracks >}}
