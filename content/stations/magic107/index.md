@@ -1,6 +1,6 @@
 ---
 # author: "Hugo Authors"
-title: "KOOL 108 - Minneapolis/St. Paul, MN"
+title: "Magic 107 - Orlando, FL"
 date: "2019-03-11"
 #description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 #tags: ["markdown", "css", "html", "themes"]
@@ -14,10 +14,10 @@ resources:
   src: tracks.md
 ---
 
-> KOOL 108 is Minnesota's Christmas Station.  KOOL 108 plays Minnesota's favorite Christmas songs all year long.  KOOL 108 is also the home of Minnesota's largest Christmas party, the KOOL 108 Jingle Ball.
+> WMGF is a commercial radio station in Mount Dora, Florida, broadcasting to the Orlando area on 107.7 FM. WMGF airs an adult contemporary music format branded as "Magic 107.7". The station's studios are located in Maitland and the transmitter tower is in Orange City.
 
-[Wikipedia](https://en.wikipedia.org/wiki/KQQL)
+[Wikipedia](https://en.wikipedia.org/wiki/WMGF)
 
-**First Aired**: 1968
+**First Aired**: 1966
 
 {{< tracks >}}

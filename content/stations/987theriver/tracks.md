@@ -1,3 +1,7 @@
+---
+headless: true
+---
+
 ## Top Ten Tracks
 
 | Track | Plays |
