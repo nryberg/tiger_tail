@@ -1,5 +1,5 @@
 baseURL: ""
-title: Ho! Ho! Ho!
+title: Tiger Tail
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Ho Ho Ho!
-  description: "Holiday Music - broken down"
+  title: Tiger Tail
+  description: "Catalog your data, statically"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -59,9 +59,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Ho Ho Ho!
-    subtitle: "Holiday Music - broken down"
-    imageUrl: "/images/merry_christmas.png"
+    title: Tiger Tail
+    subtitle: "Data broken down catalog style"
+    imageUrl: "/images/tiger.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -80,7 +80,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/nryberg/tiger_tail"
 
   analytics:
     google:
