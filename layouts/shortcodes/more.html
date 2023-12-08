@@ -1,0 +1,2 @@
+{{ $more := $.Page.Resources.GetMatch "more.md" }} {{if $more }}
+<span>{{$more.Content}}</span> {{ else }} {{ end }}
